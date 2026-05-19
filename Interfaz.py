@@ -99,7 +99,7 @@ def log_box(parent, height=8):  # define la funcion o metodo log_box
 class App(tk.Tk):  # define la clase App
 	def __init__(self):  # define la funcion o metodo __init__
 		super().__init__()  # inicializa la clase padre
-		self.title("Sistema de Gestión · Software FJ")  # ejecuta esta instruccion del programa
+		self.title(" Software FJ")  # ejecuta esta instruccion del programa
 		self.geometry("980x680")  # ejecuta esta instruccion del programa
 		self.minsize(900, 600)  # ejecuta esta instruccion del programa
 		self.config(bg=BG)  # ajusta la configuracion del elemento
