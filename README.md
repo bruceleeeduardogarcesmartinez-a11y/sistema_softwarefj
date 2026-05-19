@@ -1,6 +1,6 @@
-# Sistema Integral de Gestión - Software FJ
-**Universidad Nacional Abierta y a Distancia (UNAD)**  
-Curso: Programación | Código: 213023
+# Sistema Integral de Gestión - Software FJ  
+Curso: Programación 
+Nombre: Brucelee Eduardo Garces Martinez
 
 ---
 
