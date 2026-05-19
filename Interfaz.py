@@ -112,7 +112,7 @@ class App(tk.Tk):  # define la clase App
 		hdr.pack_propagate(False)  # ejecuta esta instruccion del programa
 		tk.Label(hdr, text="⬡ SOFTWARE FJ", font=("Consolas", 15, "bold"),  # asigna varios valores en la misma instruccion
 			fg=ACCENT, bg=PANEL).pack(side="left", padx=20)  # ubica el widget dentro de la ventana
-		tk.Label(hdr, text="Sistema Integral de Gestión · UNAD 213023",  # asigna varios valores en la misma instruccion
+		tk.Label(hdr, text="Sistema Integral de Gestión",  # asigna varios valores en la misma instruccion
 			font=FONT_SMALL, fg=MUTED, bg=PANEL).pack(side="left", padx=4)  # ubica el widget dentro de la ventana
 
 	def _build_notebook(self):  # define la funcion o metodo _build_notebook
